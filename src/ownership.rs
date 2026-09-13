@@ -9,4 +9,5 @@ fn main() {
     // from s1 to s2, making s1 invalid.
 
     println!("\ns1 is = {} and s2 is = {}\n", s1, s2);
+    
 }
